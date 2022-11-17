@@ -1,0 +1,26 @@
+hi..
+my self bhanukiran
+i have 2.3 years of exp into application monitoring and Incident managment for skillmine technologies banglore and my client is ICICI bank hyd
+have experiance with service now ticketing, monitoring tools and strong understanding of SLA of the client requirement
+
+we monitor more than 200+ appications which includes high business impacting appications TIER to Tier4 applications
+
+the main moto of our job is proactive monitoring of the applications with multiple tools like APPdyna, dyna, service now, heal
+I
+
+if any alert triggers we will send it to concern team and chech weather it is troubieshooted or if anv impact on application DB we will raise an incident
+
+if any incident or alerts Triggered we will check in multiple sourec like in mail, tools and recently integrated with service now
+as well
+
+we drill down in tool all the applications to check for any error occured or not because we have SLA for alerts to be processed in Time
+we check multiple alerts like CPU,MEM A VAIL, DISKspace
+
+we prepare daily weekly and monthly reports and sent to all the supports teams and some of application owners
+
+We found any abnormalities in the dashboards we will immediatly contact appiction team or support team and ask them to check the alerts if there is an any abnormalities foud they will ask to open a
+troubleshooting bridge
+
+i activilly participate in multiple troubleshooting call to support and helping the incident managers on dailv bases
+
+we will have daily status call at starting and ending of the shift for roles and resp and for ant information to be passed.
